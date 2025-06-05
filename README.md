@@ -32,6 +32,7 @@ Prerequisites are:
   3) install paho.mqtt python module
 
 Sample output:
+  - xtide/Anchorage/next_event:
   {
   "date": "2025-06-05",
   "time": "4:31 PM AKDT",
