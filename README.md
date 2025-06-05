@@ -24,7 +24,7 @@ Python script for publishing tide data created from xtide (https://flaterco.com/
 One topic is published to the mqtt broker.
   1) next_event : The next high or low tide event
 
-This python program is meant to be run via a crontab job, with the tide station as an input variable. eg: */6 * * * * /usr/bin/python3 /home/jfuglestad/tide_hilo_2mqtt.py "Anchorage"
+This python program is meant to be run via a crontab job, with the tide station as an input variable. eg: */6 * * * * /usr/bin/python3 /home/usr/tide_hilo_2mqtt.py "Anchorage"
 
 Prerequisites are:
   1) python3
